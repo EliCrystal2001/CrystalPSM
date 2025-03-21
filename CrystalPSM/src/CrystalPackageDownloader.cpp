@@ -6,6 +6,7 @@
 #include <sstream>
 #include <vector>
 #include <cstdio>
+#include <cstring>
 #include <functional>
 
 #include "CrystalPackageDownloader.hpp"
